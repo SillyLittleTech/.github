@@ -10,7 +10,7 @@ I, Kiya, mainly write the code for these websites and house them on Cloudflare's
 
 We are open to friends and family hosting their own projects here or just joining our VPN server for a privater internet. 
 
-These repositories on this account server as templates to jumpstart your online presense with easy. 
+These repositories on this account server as templates to jumpstart your online presense with ease. 
 
 For help setting up a project based on these templates, reach out to me @ `kiya [dot] rose [at] sillylittle [dot] tech`
 </center>
