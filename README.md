@@ -1,30 +1,16 @@
+<center>
+  
 # SillyLittleTech
 
-## About Us
+## About 
 
-Welcome to **SillyLittleTech**! We are a holding organization founded by Kiya and Krystal, created to help individuals establish and maintain their online presence with ease.
+SillyLittleTech is a holding organisation for my (Kiya Rose) and my wife's (Krystal)'s Portfolio and website projects
 
-## What We Do
+I, Kiya, mainly write the code for these websites and house them on Cloudflare's edge. 
 
-SillyLittleTech provides:
+We are open to friends and family hosting their own projects here or just joining our VPN server for a privater internet. 
 
-- **Website Hosting** - A reliable platform for hosting personal and professional websites
-- **Easy-to-Use Templates** - Pre-designed website templates that anyone can customize
-- **Website Kits** - Comprehensive kits with everything you need to get started online
-- **Community Support** - A welcoming space for members to collaborate and share ideas
+These repositories on this account server as templates to jumpstart your online presense with easy. 
 
-## Who We Are
-
-Currently led by:
-- **Kiya** - Co-founder
-- **Krystal** - Co-founder
-
-We're always open to welcoming new members who share our vision of making web presence accessible to everyone!
-
-## Our Mission
-
-To democratize web presence by providing accessible, user-friendly tools and templates that empower anyone to create and maintain their website, regardless of technical expertise.
-
-## Get Involved
-
-Interested in joining us or using our templates? We'd love to have you as part of our community!
+For help setting up a project based on these templates, reach out to me @ `kiya [dot] rose [at] sillylittle [dot] tech`
+</center>
